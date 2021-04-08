@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sp-playground"
+    }
+  },
+  "defaultProject": "sp-playground",
+  "cli": {
+    "analytics": "905cecae-6dba-423c-8589-c36d562528b2"
+  }
 }
